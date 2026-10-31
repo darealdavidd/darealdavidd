@@ -23,3 +23,9 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/darealdavidd/darealdavidd/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darealdavidd/darealdavidd/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/darealdavidd/darealdavidd/output/github-contribution-grid-snake.svg">
+</picture>
