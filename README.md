@@ -23,26 +23,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darealdavidd&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darealdavidd&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darealdavidd&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🐍 Contribution Graph Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/darealdavidd/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/darealdavidd/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/darealdavidd/output/github-contribution-grid-snake.svg">
-</picture>
