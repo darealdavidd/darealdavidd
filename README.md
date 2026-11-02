@@ -2,12 +2,12 @@
 
 <!-- Typing Intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+David+!+%F0%9F%91%8B;Learning+AI+and+Systems+Programming;Building+with+C%2B%2B%2C+Python%2C+and+Rust" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF99&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+David+!+%F0%9F%91%8B;Larping+AI+and+Systems+Programming;Learning+C%2B%2B%2C+Python%2C+and+Rust" alt="Typing SVG" />
 </a>
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darealdavidd&label=Profile%20Views&color=00ff99&style=flat-square" alt="Profile Views" />
+  <img img="https://komarev.com/ghpvc/?username=darealdavidd&label=Profile%20Views&color=00ff99&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
