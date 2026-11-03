@@ -7,7 +7,7 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img img="https://komarev.com/ghpvc/?username=darealdavidd&label=Profile%20Views&color=00ff99&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=darealdavidd&label=Profile%20Views&color=00ff99&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
