@@ -28,3 +28,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/darealdavidd/darealdavidd/output/github-contribution-grid-snake.svg">
   <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/darealdavidd/darealdavidd/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darealdavidd&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+</div>
+
